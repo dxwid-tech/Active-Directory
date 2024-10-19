@@ -24,26 +24,35 @@ In this project, the goal was to create an Active Directory environment to learn
 ## Key Steps
 These are the most important steps and results that I collected throughout this projects.
 
-Ref 1: Virtual Box VM's 
+#### Ref 1: Virtual Box VM's 
 
 
 <img width="452" alt="Picture32" src="https://github.com/user-attachments/assets/ee1b1c21-83e1-45ac-8a9c-d5499f1559d0">
 
 
 
-Ref 2: Configuring IP addresses for NAT Network
+#### Ref 2: Configuring IP addresses for NAT Network
 
 Splunk Server:
+
+
+
 <img width="413" alt="Picture36" src="https://github.com/user-attachments/assets/f0fa6948-6f00-4235-a7dc-f2d8e08ee8de">
 
 Kali Linux:
+
+
+
 <img width="370" alt="Picture31" src="https://github.com/user-attachments/assets/9d8beda7-70f1-4f5a-93bf-958166696355">
 
 Windows:
+
+
+
 <img width="353" alt="1" src="https://github.com/user-attachments/assets/d9e51349-5f4f-46d4-9048-bb1aa667926a">
 
 
-Ref 3: Setting up Domain Controller
+#### Ref 3: Setting up Domain Controller
 
 
 <img width="452" alt="Picture30" src="https://github.com/user-attachments/assets/029e21b4-5ace-4ec2-83b8-503a83ef8a5d">
@@ -52,7 +61,7 @@ Ref 3: Setting up Domain Controller
 <img width="385" alt="Picture29" src="https://github.com/user-attachments/assets/68b47a4f-c1ba-42cc-b571-32a8e8a73ea0">
 
 
-Ref 4: Kali Linux Brute Force Attack
+#### Ref 4: Kali Linux Brute Force Attack
 
 
 <img width="292" alt="Picture35" src="https://github.com/user-attachments/assets/0606fd98-25f6-46f5-8afa-ab43dd537049">
@@ -63,7 +72,7 @@ Ref 4: Kali Linux Brute Force Attack
 
 
 
-Ref 5: Splunk Telemetry 
+#### Ref 5: Splunk Telemetry 
 
 <img width="452" alt="Picture33" src="https://github.com/user-attachments/assets/8ab43b8e-bece-4c83-a9ab-cdaae1979dfb">
 
